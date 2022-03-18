@@ -2,7 +2,7 @@
    * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
    * B站：https://www.bilibili.com/video/av95688306/
 
-  
+  。
   CONFIG_ID
   ```shell
   id=r'你的应用id'
