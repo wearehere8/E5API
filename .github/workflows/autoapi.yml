@@ -11,8 +11,8 @@ on:
   #    - main
   schedule:
     - cron: 12 */6 * * *
-  #watch:
-  #  types: [started]
+  watch:
+    types: [started]
    
 jobs:
   build:
